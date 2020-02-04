@@ -535,8 +535,7 @@ include("header.html");
         	<!--Map Container-->
             <div class="map-outer">
             	<!--Map Canvas-->
-                <div class="map-canvas" data-zoom="12" data-lat="-37.817085" data-lng="144.955631" data-type="roadmap" data-hue="#ffc400" data-title="Envato" data-content="Melbourne VIC 3000, Australia<br><a href='mailto:info@youremail.com'>info@youremail.com</a>" style="height: 500px;">
-                </div>
+                <iframe width="100%"src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d975.0665893769113!2d-76.96365807084086!3d-12.16226058845816!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105b8f86ba402ef%3A0x21eef93b2fff194c!2sAv.%20Guillermo%20Billinghurst%201089%2C%20San%20Juan%20de%20Miraflores%2015801!5e0!3m2!1ses-419!2spe!4v1580800675229!5m2!1ses-419!2spe"  height="450" frameborder="0" style="border:5; " allowfullscreen=""></iframe>
                 
             </div>
         </section>
