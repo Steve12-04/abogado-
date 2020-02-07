@@ -13,7 +13,7 @@ include("header.html");
                 <figure class="man-image hidden-xs"><img src="images\resource\man-image.png" alt=""></figure>
                 
                 <div class="default-form consultation-form">
-                	<form method="post" action="index.html">
+                	<form method="post" action="correo.php">
                     	<div class="row clearfix">
                         	<div class="form-group col-md-6 col-sm-12 col-xs-12">
                             	<input type="text" name="fname" value="" placeholder="First Name" required="">
@@ -23,6 +23,9 @@ include("header.html");
                             </div>
                             <div class="form-group col-md-6 col-sm-12 col-xs-12">
                             	<input type="text" name="phone" value="" placeholder="Phone" required="">
+                            </div>
+                            <div class="form-group col-md-6 col-sm-12 col-xs-12">
+                            	<input type="email" name="email" value="" placeholder="Correo electronico" required="">
                             </div>
                             <div class="form-group col-md-6 col-sm-12 col-xs-12">
                             	<select name="subject">
@@ -36,10 +39,13 @@ include("header.html");
                             	<textarea name="message" placeholder="Message" required=""></textarea>
                             </div>
                             <div class="form-group col-md-12 col-sm-12 col-xs-12">
-                            	<button type="submit" class="theme-btn btn-style-one">Send Now</button>
+                            	<button type="submit" class="theme-btn btn-style-one"name="enviar">Send Now</button>
                             </div>
                         </div>
                     </form>
+                    <?php
+                    include("correo.php");
+                    ?>
                 </div>
     	  
         	</div>

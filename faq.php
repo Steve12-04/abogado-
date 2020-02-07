@@ -6,7 +6,7 @@ include("header.html");
         <!--Page Title-->
         <section class="page-title" style="background-image:url(images/background/pagetitle-bg.jpg);">
             <div class="auto-container">
-            	<h1>Frequently Asked Questions</h1>
+            	<h1>Preguntas Frecuentes</h1>
             </div>
         </section>
         
@@ -16,7 +16,7 @@ include("header.html");
             	<div class="pull-left"><h2>FAQ</h2></div>
                 <div class="pull-right">
                 	<ul class="bread-crumb clearfix">
-                    	<li><a href="index.html">Home</a></li>
+                    	<li><a href="index.html">Inicio</a></li>
                         <li>FAQ</li>
                     </ul>
                 </div>
@@ -30,7 +30,7 @@ include("header.html");
                 <!--Tabs Box / Style One-->
                 <div class="tabs-box style-one">
                 	<ul class="tab-buttons text-center clearfix">
-                    	<li class="tab-btn active-btn" data-tab="#tab-one">Law &amp; Justice</li>
+                    	<li class="tab-btn active-btn" data-tab="#tab-one">Ley &amp; Justicia</li>
                         <li class="tab-btn" data-tab="#tab-two">Criminal Law</li>
                         <li class="tab-btn" data-tab="#tab-three">Family Law</li>
                         <li class="tab-btn" data-tab="#tab-four">Consumer Law</li>
@@ -47,7 +47,8 @@ include("header.html");
                             <div class="accordion-box style-three">
                                 <!-- Accordion -->
                                 <div class="accordion accordion-block">
-                                    <div class="accord-btn active"><div class="icon-box"><span class="icon fa fa-gear"></span></div><h4>What is the International Court of Justice?</h4></div>
+                                    <div class="accord-btn active"><div class="icon-box"><span class="icon fa fa-gear"></span></div><h4>
+¿Qué es la Corte Internacional de Justicia?</h4></div>
                                     <div class="accord-content collapsed">
                                         <div class="clearfix">
                                             <figure class="image-box">
@@ -60,19 +61,19 @@ include("header.html");
                                                     </div>
                                                 </a>
                                             </figure>
-                                            <p>Only States are eligible to appear before the Court in contentious cases.  At present, this  isbasically means the 192 United Nations Member States. The Court has no jurisdiction to deal with applications from individuals, non-governmental organizations, corporations or any other private entity.  It cannot provide them with legal counselling or help them in their sedsw dealings with the authorities of any State whatever. non-governmental organizations, corporations or any other private entity.non-governmental organizations, corporations or any other private entity non-governmental organizations, corporations or any other private entity. . </p>
-                                            <p>However, a State may take up the case of one of its nationals and invoke against another State the wrongs which its national claims to have suffered at the hands of the latter;  the dispute then becomes one between States. a State may take up the case of one of its nationals and invoke against another State the wrongs which its national claims to have suffered at the hands of the latter.</p>
+                                            <p>La Corte Internacional de Justicia es el principal órgano judicial de las Naciones Unidas. Fue establecida en 1945 en La Haya, siendo la continuadora, a partir de 1946, de la Corte Permanente de Justicia Internacional.</p>
+                                            <!--<p>However, a State may take up the case of one of its nationals and invoke against another State the wrongs which its national claims to have suffered at the hands of the latter;  the dispute then becomes one between States. a State may take up the case of one of its nationals and invoke against another State the wrongs which its national claims to have suffered at the hands of the latter.</p>-->
                                         </div>
                                     </div>
                                 </div>
                                 
                                 <!-- Accordion -->
                                 <div class="accordion accordion-block">
-                                    <div class="accord-btn"><div class="icon-box"><span class="icon fa fa-gear"></span></div><h4>Who may submit cases to the Court?</h4></div>
+                                    <div class="accord-btn"><div class="icon-box"><span class="icon fa fa-gear"></span></div><h4>¿Por qué necesito un abogado?</h4></div>
                                     <div class="accord-content">
                                         <div class="clearfix">
-                                            <p>Only States are eligible to appear before the Court in contentious cases.  At present, this  isbasically means the 192 United Nations Member States. The Court has no jurisdiction to deal with applications from individuals, non-governmental organizations, corporations or any other private entity.  It cannot provide them with legal counselling or help them in their sedsw dealings with the authorities of any State whatever. non-governmental organizations, corporations or any other private entity.non-governmental organizations, corporations or any other private entity non-governmental organizations, corporations or any other private entity. . </p>
-                                            <p>However, a State may take up the case of one of its nationals and invoke against another State the wrongs which its national claims to have suffered at the hands of the latter;  the dispute then becomes one between States. a State may take up the case of one of its nationals and invoke against another State the wrongs which its national claims to have suffered at the hands of the latter.</p>
+                                            <p>Según los estudios realizados por el Consejo de Investigación de Seguros en 2004, las víctimas dañadas en accidentes de autos reciben 3.5 veces más de dinero en sus acuerdos cuando tienen un abogado. Cuando contrata los servicios de un abogado experimentado en daños personales para luchar por sus derechos contra corporaciones poderosas puede significar un impacto importante en el resultado de su caso. Cuando recibe daños graves, no luche solo.</p>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -807,133 +808,7 @@ include("header.html");
         
         
     
-    	<!--Main Footer-->
-        <footer class="main-footer">
-            
-            <!--Footer Upper-->        
-            <div class="footer-upper" style="background-image:url(images/background/footer-bg.jpg);">
-                <div class="auto-container">
-                    <div class="row clearfix">
-                        
-                        <!--Two 4th column-->
-                        <div class="col-md-6 col-sm-12 col-xs-12">
-                            <div class="row clearfix">
-                                <div class="col-lg-6 col-sm-6 col-xs-12 column">
-                                    <div class="footer-widget about-widget">
-                                        <h3>About Lawyer Justice</h3>
-                                        <div class="text">
-                                            <p>Since 1965, who loves or pursues seds or ut desires too obtains <a href="#">Attorneys</a> of itself sed, will ut because it is pain, but because occasionally labor uts lawyer Lawyer Justice occurs.</p>
-                                            <p>Lawyer Justice who loves or pursues seds or ut desires too obtains of itself sed, will ut because it is  Lawyer.</p>
-                                        </div>
-                                        
-                                        <a href="#" class="theme-btn btn-style-one">Buy this Theme</a>
-                                        
-                                    </div>
-                                </div>
-                                
-                                <!--Footer Column-->
-                                <div class="col-lg-6 col-sm-6 col-xs-12 column">
-                                    <h3>Usefull Links</h3>
-                                    <div class="row clearfix">
-                                        
-                                        <div class="col-lg-6 col-sm-6 col-xs-12">
-                                            <div class="footer-widget links-widget">
-                                                <ul>
-                                                    <li><a href="#">Family Law</a></li>
-                                                    <li><a href="#">Criminal Law</a></li>
-                                                    <li><a href="#">Drug Law</a></li>
-                                                    <li><a href="#">Business Law</a></li>
-                                                    <li><a href="#">Insurance Law</a></li>
-                                                    <li><a href="#">Judicial Law</a></li>
-                                                    <li><a href="#">Accident Law</a></li>
-                                                    <li><a href="#">Devorce Law</a></li>
-                                                </ul>
-                    
-                                            </div>
-                                        </div>
-                                        
-                                        <div class="col-lg-6 col-sm-6 col-xs-12">
-                                            <div class="footer-widget links-widget">
-                                                <ul>
-                                                    <li><a href="#">About Us</a></li>
-                                                    <li><a href="#">Attorneys</a></li>
-                                                    <li><a href="#">Our Blog</a></li>
-                                                    <li><a href="#">FAQs</a></li>
-                                                    <li><a href="#">Consultation</a></li>
-                                                    <li><a href="#">Offices</a></li>
-                                                    <li><a href="#">Careers</a></li>
-                                                    <li><a href="#">Contact Us</a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        
-                                    </div>
-                                </div>
-                            </div>
-                        </div><!--Two 4th column End-->
-                        
-                        <!--Two 4th column-->
-                        <div class="col-md-6 col-sm-12 col-xs-12">
-                            <div class="row clearfix">
-                                <!--Footer Column-->
-                                <div class="col-lg-6 col-sm-6 col-xs-12 column">
-                                    <div class="footer-widget twitter-feeds">
-                                        <h3>Latest Tweets</h3>	
-                                        <div class="feed">
-                                            <div class="icon"><span class="fa fa-twitter"></span></div>
-                                            <div class="feed-content"><a href="#">@SteelThemes</a>  Lawyer Justice is Best Template Now.</div>
-                                            <div class="time">10 Mins Ago</div>
-                                        </div>
-                                        
-                                        <div class="feed">
-                                            <div class="icon"><span class="fa fa-twitter"></span></div>
-                                            <div class="feed-content"><a href="#">@SteelThemes</a>  They Provide Best Service in the World.</div>
-                                            <div class="time">2 Hours Ago</div>
-                                        </div>
-                                        
-                                        <div class="feed">
-                                            <div class="icon"><span class="fa fa-twitter"></span></div>
-                                            <div class="feed-content"><a href="#">@Dragon Tech</a>  Lawyer Justice Have experinced Attorneys.</div>
-                                            <div class="time">2 Hours Ago</div>
-                                        </div>
-                                        
-                                    </div>
-                                </div>
-                                
-                                <!--Footer Column-->
-                                <div class="col-lg-6 col-sm-6 col-xs-12 column">
-                                    <div class="footer-widget newsletter-widget">
-                                        <h3>Newsletter</h3>
-                                        
-                                        <div class="newsletter-form">
-                                            <p>Sign up for our mailing list to get latest updates and offers.</p>
-                                            <form method="post" action="index.html">
-                                                <div class="form-group">
-                                                    <input type="email" name="useremail" value="" placeholder="Email address" required="">
-                                                    <button type="submit" class="theme-btn btn-submit">Go</button>
-                                                </div>
-                                                <p><em>Your mail id is Confidential</em></p>
-                                            </form>
-                                        </div>
-                                        
-                                        <h4>Follow Us On</h4>
-                                        
-                                        <div class="social-links">
-                                            <a href="#"><span class="fa fa-facebook-f"></span></a>
-                                            <a href="#"><span class="fa fa-twitter"></span></a>
-                                            <a href="#"><span class="fa fa-google-plus"></span></a>
-                                            <a href="#"><span class="fa fa-linkedin"></span></a>
-                                            <a href="#"><span class="fa fa-skype"></span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div><!--Two 4th column End-->
-                        
-                    </div>
-                    
-                </div>
-            </div>
+    	
             
  <?php
  include("footer.html");
