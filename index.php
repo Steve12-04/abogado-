@@ -502,8 +502,8 @@ include("header.html");
                     <article class="info-column col-md-4 col-sm-4 col-xs-12">
                     	<div class="inner-box">
                         	<div class="icon"><span class="fa fa-map-marker"></span></div>
-                            <h3>Visit Our Office</h3>
-                            <div class="text"><p>5648, VK 26th Lane Sparks Steet, <br>Opp Joe Park-Florida 26154.</p></div>
+                            <h3>Dirección</h3>
+                            <div class="text"><p>Av. Guillermo Bilinghurts 1089, <br>Oficina 103, San Juan de Miraflores.</p></div>
                         </div>
                     </article>
                     
@@ -511,8 +511,8 @@ include("header.html");
                     <article class="info-column col-md-4 col-sm-4 col-xs-12">
                     	<div class="inner-box">
                         	<div class="icon"><span class="fa fa-phone"></span></div>
-                            <h3>Get Touch With Us</h3>
-                            <div class="text"><p>+123 859 625, +321 569 742 <br>Lawyerjustice@Steelthemes.com</p></div>
+                            <h3>Ponte en Contacto</h3>
+                            <div class="text"><p>+51 993641988 <br>albertosulcap@hotmail.com</p></div>
                         </div>
                     </article>
                     
@@ -520,8 +520,8 @@ include("header.html");
                     <article class="info-column col-md-4 col-sm-4 col-xs-12">
                     	<div class="inner-box">
                         	<div class="icon"><span class="fa fa-clock-o"></span></div>
-                            <h3>Office Timing</h3>
-                            <div class="text"><p>Monday-Satday: 09.00am to 15.00pm <br>Sunday Holiday</p></div>
+                            <h3>Horario de Atención</h3>
+                            <div class="text"><p>Lunes a Viernes: 08.00am - 05.00pm <br></p></div>
                         </div>
                     </article>
                     
