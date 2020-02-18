@@ -16,36 +16,34 @@ include("header.html");
                 	<form method="post" action="correo.php">
                     	<div class="row clearfix">
                         	<div class="form-group col-md-6 col-sm-12 col-xs-12">
-                            	<input type="text" name="fname" value="" placeholder="First Name" required="">
+                            	<input type="text" name="fname" value="" placeholder="Nombres" required="">
                             </div>
                             <div class="form-group col-md-6 col-sm-12 col-xs-12">
-                            	<input type="text" name="lname" value="" placeholder="Last Name" required="">
+                            	<input type="text" name="lname" value="" placeholder="Apellidos" required="">
                             </div>
                             <div class="form-group col-md-6 col-sm-12 col-xs-12">
-                            	<input type="text" name="phone" value="" placeholder="Phone" required="">
+                            	<input type="text" name="phone" value="" placeholder="Teléfono" required="">
                             </div>
                             <div class="form-group col-md-6 col-sm-12 col-xs-12">
                             	<input type="email" name="email" value="" placeholder="Correo electronico" required="">
                             </div>
                             <div class="form-group col-md-6 col-sm-12 col-xs-12">
                             	<select name="subject">
-                                	<option>Criminal Law</option>
-                                    <option>Family Law</option>
-                                    <option>Consumer Law</option>
-                                    <option>Drug Control Law</option>
+                                	<option>Derecho Civil</option>
+                                    <option>Derecho de Familia</option>
+                                    <option>Derecho Administrativo</option>
+                                    
                                 </select>
                             </div>
                             <div class="form-group col-md-12 col-sm-12 col-xs-12">
-                            	<textarea name="message" placeholder="Message" required=""></textarea>
+                            	<textarea name="message" placeholder="Mensaje" required=""></textarea>
                             </div>
                             <div class="form-group col-md-12 col-sm-12 col-xs-12">
-                            	<button type="submit" class="theme-btn btn-style-one"name="enviar">Send Now</button>
+                            	<button type="submit" class="theme-btn btn-style-one"name="enviar">Enviar ahora</button>
                             </div>
                         </div>
                     </form>
-                    <?php
-                    include("correo.php");
-                    ?>
+                   
                 </div>
     	  
         	</div>
