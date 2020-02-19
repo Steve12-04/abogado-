@@ -6,7 +6,7 @@ include("header.html");
         <!--Page Title-->
         <section class="page-title" style="background-image:url(images/background/pagetitle-bg.jpg);">
             <div class="auto-container">
-            	<h1>All Practice Areas</h1>
+            	<h1>NUESTRAS ÁREAS </h1>
             </div>
         </section>
         
@@ -38,12 +38,12 @@ include("header.html");
                                 <!--Practice Area Column-->
                                 <article class="practice-column col-lg-4 col-md-6 col-sm-6 col-xs-12">
                                 	<div class="inner-box">
-                                    	<figure class="image-box"><img src="images\resource\default-image-14.jpg" alt=""></figure>
+                                    	<figure class="image-box"><img src="images\resource\default-image-18.jpg" alt=""></figure>
                                         <div class="lower-content">
-                                        	<div class="icon-box"><span class="flaticon-medical"></span></div>
-                                            <h3><a href="#">Consumer Law</a></h3>
+                                        	<div class="icon-box"><span class="flaticon-briefcase"></span></div>
+                                            <h3><a href="#">Business Law</a></h3>
                                             <div class="text">
-                                            	<p>Consumer protection is a group  sed of laws and it organizations get designed to ensure the rights law consumers as well fair trade.</p>
+                                            	<p>Business law encompasses all of the law that dictate how to form and runa business. this includes all the  laws that govern how to start...</p>
                                             </div>
                                         </div>
                                     </div>
@@ -93,18 +93,7 @@ include("header.html");
                                 </article>
                                 
                                 <!--Practice Area Column-->
-                                <article class="practice-column col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                                	<div class="inner-box">
-                                    	<figure class="image-box"><img src="images\resource\default-image-18.jpg" alt=""></figure>
-                                        <div class="lower-content">
-                                        	<div class="icon-box"><span class="flaticon-briefcase"></span></div>
-                                            <h3><a href="#">Business Law</a></h3>
-                                            <div class="text">
-                                            	<p>Business law encompasses all of the law that dictate how to form and runa business. this includes all the  laws that govern how to start...</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </article>
+                                
                                 
                                 <!--Practice Area Column-->
                                 <article class="practice-column col-lg-4 col-md-6 col-sm-6 col-xs-12">

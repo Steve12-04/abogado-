@@ -74,7 +74,7 @@ include("header.html");
                     <article class="default-service-column col-md-4 col-sm-6 col-xs-12">
                         <div class="inner-box">
                             <div class="service-header">
-                                <div class="icon"><span class="flaticon-medical"></span></div>
+                                <div class="icon"><span class="flaticon-briefcase"></span></div>
                                 <h4>Derecho civil</h4>
                                 <h3>
                                 Conoce tus derechos civiles</h3>
