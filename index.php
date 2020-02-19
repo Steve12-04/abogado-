@@ -71,17 +71,57 @@ include("header.html");
             	<div class="row clearfix">
                 	
                     <!--Default Service Column-->
-                    <article class="default-service-column col-md-3 col-sm-6 col-xs-12">
+                    <article class="default-service-column col-md-4 col-sm-6 col-xs-12">
                         <div class="inner-box">
                             <div class="service-header">
                                 <div class="icon"><span class="flaticon-medical"></span></div>
-                                <h4>Ley del consumidor</h4>
+                                <h4>Derecho civil</h4>
                                 <h3>
-                                    Prevenir de malas prácticas comerciales</h3>
+                                Conoce tus derechos civiles</h3>
                             </div>
                             <div class="text-content">
                                 <div class="text">
-                                    <p>La protección del consumidor es un grupo de leyes y organizaciones diseñadas para garantizar los derechos de los consumidores y el comercio justo.
+                                    <p>Nos encargamos de ofrecer asesoría legal en todos los aspectos relacionados al derecho civil, a fin de defender los derechos e intereses de los patrocinados, en los diversos campos del derecho civil, tales como saneamiento de propiedades, retractos, prescripciones, reivindicación, entre otras, asimismo dar seguridad jurídica relacionados a los arrendamientos de inmuebles.</p>
+                                </div>
+                                
+                                <a href="#" class="theme-btn btn-style-one">Read More</a>
+                            </div>
+                        </div>
+                    </article>
+                    
+                    <!--Default Service Column-->
+                    <article class="default-service-column col-md-4 col-sm-6 col-xs-12">
+                        <div class="inner-box">
+                            <div class="service-header">
+                                <div class="icon"><span class="flaticon-people-1"></span></div>
+                                <h4>Derecho de familia</h4>
+                                <h3>Conoce los derechos de familia</h3>
+                            </div>
+                            <div class="text-content">
+                                <div class="text">
+                                    <p><br/>
+                                    Nos encargamos de ofrecer asesoría legal en todos los aspectos relacionados a la familia y defender los derechos e intereses de los miembros de la familia, a fin de dar la mejor solución al problema concreto.
+                                    <br/><br/><br/><br/></p>
+                                </div>
+                                
+                                <a href="#" class="theme-btn btn-style-one">Read More</a>
+                            </div>
+                        </div>
+                    </article>
+                    
+                    <!--Default Service Column-->
+                    <article class="default-service-column col-md-4 col-sm-6 col-xs-12">
+                        <div class="inner-box">
+                            <div class="service-header">
+                                <div class="icon"><span class="flaticon-people"></span></div>
+                                <h4>Derecho Administrativo</h4>
+                                <h3>Conoce los derechos administrativos</h3>
+                            </div>
+                            <div class="text-content">
+                                <div class="text">
+                                    <p>
+                                    Nos encargamos de ofrecer asesoría legal en todos los aspectos relacionados al derecho administrativo, a fin de defender los derechos e intereses ante las diversas entidades públicas, quienes en el uso de poder atropellan los derechos de los administrados, mediante sanciones administrativas o tributarias e instauraciones de barreras burocráticas.
+                            
                                     </p>
                                 </div>
                                 
@@ -91,59 +131,7 @@ include("header.html");
                     </article>
                     
                     <!--Default Service Column-->
-                    <article class="default-service-column col-md-3 col-sm-6 col-xs-12">
-                        <div class="inner-box">
-                            <div class="service-header">
-                                <div class="icon"><span class="flaticon-people-1"></span></div>
-                                <h4>Ley de familia</h4>
-                                <h3>Deals With Family &amp; Domestic Relationship.</h3>
-                            </div>
-                            <div class="text-content">
-                                <div class="text">
-                                    <p>Family law (also we called matrimonial law) is an area of the law sed that deals with family matters &amp; family domestic relations and ect...</p>
-                                </div>
-                                
-                                <a href="#" class="theme-btn btn-style-one">Read More</a>
-                            </div>
-                        </div>
-                    </article>
-                    
-                    <!--Default Service Column-->
-                    <article class="default-service-column col-md-3 col-sm-6 col-xs-12">
-                        <div class="inner-box">
-                            <div class="service-header">
-                                <div class="icon"><span class="flaticon-people"></span></div>
-                                <h4>Ley Criminalidad</h4>
-                                <h3>Is Body of Law, Offence Against Justice. </h3>
-                            </div>
-                            <div class="text-content">
-                                <div class="text">
-                                    <p>Criminal law or penal law is the body of law that relates to crime. It regulat social conduct and labour proscribes whatever is threatening.</p>
-                                </div>
-                                
-                                <a href="#" class="theme-btn btn-style-one">Read More</a>
-                            </div>
-                        </div>
-                    </article>
-                    
-                    <!--Default Service Column-->
-                    <article class="default-service-column col-md-3 col-sm-6 col-xs-12">
-                        <div class="inner-box">
-                            <div class="service-header">
-                                <div class="icon"><span class="flaticon-medical-1"></span></div>
-                                <h4>Ley de control de drogas</h4>
-                                <h3>Governments prohibit, except under licence.</h3>
-                            </div>
-                            <div class="text-content">
-                                <div class="text">
-                                    <p>Drug prohibition law is sed prohibition based laww by which is governnments prohibit, except underteh  licence, the production, supply.</p>
-                                </div>
-                                
-                                <a href="#" class="theme-btn btn-style-one">Read More</a>
-                            </div>
-                        </div>
-                    </article>
-                    
+                   
                 </div>
                 
                 <hr>
@@ -237,7 +225,7 @@ include("header.html");
                     <div class="company-history default-column col-lg-6 col-md-12 col-sm-12">
                     	<div class="inner-box">
                     		<div class="styled-heading">
-                            	<h2>Our History</h2>
+                            	<h2>Historia del Abogado</h2>
                             </div>
                             
                             <div class="row clearfix">
@@ -249,7 +237,7 @@ include("header.html");
                                     <div class="company-timeline">
                                     	<!--Timeline Block-->
                                         <article class="timeline-block">
-                                        	<div class="year">1965<div class="curve"><span class="fa fa-caret-down"></span></div></div>
+                                        	<div class="year">2015<div class="curve"><span class="fa fa-caret-down"></span></div></div>
                                             <h3>Started at Florida</h3>
                                             <div class="text"><p>Best Standard dummy text ever since the dobo 1500s, when and ut sed printer took a galley of type and book.</p></div>
                                         </article>
