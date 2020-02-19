@@ -151,7 +151,9 @@ include("header.html");
                             	<h2>Sobre el abogado</h2>
                             </div>
                             <div class="default-text-box">
-                            	<p>Since 1965, who loves or pursues or desires too obtains Attorneys of itself sed, will because it is pain, but because occasionally utcircumstances occurs ut in which toil and pain can procure him some great pleasure. To se takes a trivials example which was of us ever undertakes laborious physical exercise.</p>
+                            	<p>Abogado en ejercicio de la profesión desde el año 2015, evaluando los problemas o controversias y brindando soluciones legales, con riguroso estándar de confidencialidad, por ello la cartera de clientes se encuentra en incremento.
+Nuestra misión es prestar servicios legales de alta calidad, ofreciendo servicios personalizado de asesoría, consultoría, patrocinio adecuado, para una entera satisfacción de nuestros clientes.
+</p>
                             </div>
                             
                             <!--Columns Outer-->
@@ -237,23 +239,23 @@ include("header.html");
                                     <div class="company-timeline">
                                     	<!--Timeline Block-->
                                         <article class="timeline-block">
+                                        	<div class="year">2010<div class="curve"><span class="fa fa-caret-down"></span></div></div>
+                                            <h3>Experiencia en diferentes entidades</h3>
+                                            <div class="text"><p>Trabajo en distintas municipalidades.</p></div>
+                                        </article>
+                                        
+                                        <!--Timeline Block-->
+                                        <article class="timeline-block">
                                         	<div class="year">2015<div class="curve"><span class="fa fa-caret-down"></span></div></div>
-                                            <h3>Started at Florida</h3>
-                                            <div class="text"><p>Best Standard dummy text ever since the dobo 1500s, when and ut sed printer took a galley of type and book.</p></div>
+                                            <h3>Abogado Independiente</h3>
+                                            <div class="text"><p>En las especialidades Derecho Civil, Derecho de Familia y Derecho Administrativo.</p></div>
                                         </article>
                                         
                                         <!--Timeline Block-->
                                         <article class="timeline-block">
-                                        	<div class="year">1972<div class="curve"><span class="fa fa-caret-down"></span></div></div>
-                                            <h3>Best company of the Year</h3>
-                                            <div class="text"><p>There are many lawyer variations of passages of lorem Ipsum labour  available, but the  have suffered alteration.</p></div>
-                                        </article>
-                                        
-                                        <!--Timeline Block-->
-                                        <article class="timeline-block">
-                                        	<div class="year">1978<div class="curve"><span class="fa fa-caret-down"></span></div></div>
-                                            <h3>Opening new office</h3>
-                                            <div class="text"><p>If you are going to use a passage of Ipsum, case lawyer justice you need to be sure new office at Mexico City.</p></div>
+                                        	<div class="year">2020<div class="curve"><span class="fa fa-caret-down"></span></div></div>
+                                            <h3>Abogado de Prestigio</h3>
+                                            <div class="text"><p>Cuenta con amplia experiencia y casos ganados.</p></div>
                                         </article>
                                         
                                     </div>
