@@ -10,7 +10,7 @@ include("header.html");
                     <ul>
                         
                         
-                        <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/3.jpg" data-saveperformance="off" data-title="Awesome Title Here">
+                        <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/3.jpeg" data-saveperformance="off" data-title="Awesome Title Here">
                         <img src="images\main-slider\3.jpg" alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat"> 
                         
                         
@@ -25,8 +25,8 @@ include("header.html");
                         </li>
                         
                         
-                        <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/2.jpg" data-saveperformance="off" data-title="Awesome Title Here">
-                        <img src="images\main-slider\2.jpg" alt="" data-bgposition="left top" data-bgfit="cover" data-bgrepeat="no-repeat"> 
+                        <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/2.jpeg" data-saveperformance="off" data-title="Awesome Title Here">
+                        <img src="images\main-slider\2.jpeg" alt="" data-bgposition="left top" data-bgfit="cover" data-bgrepeat="no-repeat"> 
                         
                         <div class="tp-caption sfl sfb tp-resizeme" data-x="left" data-hoffset="-270" data-y="bottom" data-voffset="30" data-speed="1500" data-start="500" data-easing="easeOutExpo" data-splitin="none" data-splitout="none" data-elementdelay="0.01" data-endelementdelay="0.3" data-endspeed="1200" data-endeasing="Power4.easeIn" style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="logo-image"><img src="images\main-slider\man-image.png" alt=""></div></div>
                         
@@ -43,7 +43,7 @@ include("header.html");
                         
                         
                         <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/1.jpg" data-saveperformance="off" data-title="Awesome Title Here">
-                        <img src="images\main-slider\1.jpg" alt="" data-bgposition="right top" data-bgfit="cover" data-bgrepeat="no-repeat"> 
+                        <img src="images\main-slider\1.jpeg" alt="" data-bgposition="right top" data-bgfit="cover" data-bgrepeat="no-repeat"> 
                         
                         
                         <div class="tp-caption sfl sfb tp-resizeme" data-x="left" data-hoffset="15" data-y="center" data-voffset="-150" data-speed="1500" data-start="500" data-easing="easeOutExpo" data-splitin="none" data-splitout="none" data-elementdelay="0.01" data-endelementdelay="0.3" data-endspeed="1200" data-endeasing="Power4.easeIn" style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="smaller-title">We Are Lawyer Justice</div></div>
