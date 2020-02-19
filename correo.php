@@ -25,13 +25,15 @@ if (isset($_POST['enviar'])) {
 		$mail= @mail($email, $usuario, $mensajecompleto, $header);
 		if ($mail) {
 			echo "<script>
-            alert('Felicidades el mensaje fue enviado exitosamente');
+			alert('Felicidades el mensaje fue enviado exitosamente');
+			setTimeout('history.back()',200);
             </script>";
         
 		}
 	}else{
     echo "<script>
-    alert('Ocurrio un error por favor ingresar nuevamente el contenido');
+	alert('Ocurrio un error por favor ingresar nuevamente el contenido');
+	setTimeout('history.back()',200);
     </script>";
     }
 }

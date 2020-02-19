@@ -6,18 +6,18 @@ include("header.html");
         <!--Page Title-->
         <section class="page-title" style="background-image:url(images/background/pagetitle-bg.jpg);">
             <div class="auto-container">
-            	<h1>About Lawyer Justice</h1>
+            	<h1>Acerca del Abogado</h1>
             </div>
         </section>
         
         <!--Page Info-->
         <section class="page-info">
             <div class="auto-container clearfix">
-            	<div class="pull-left"><h2>About Us</h2></div>
+            	<div class="pull-left"><h2>Conócenos</h2></div>
                 <div class="pull-right">
                 	<ul class="bread-crumb clearfix">
-                    	<li><a href="index.html">Home</a></li>
-                        <li>About Us</li>
+                    	<li><a href="index.html">Inicio</a></li>
+                        <li>Conócenos</li>
                     </ul>
                 </div>
             </div>
@@ -33,15 +33,16 @@ include("header.html");
                     <div class="content-column column col-lg-6 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="text-header">
-                                <h2 class="theme_color">Welcome to Lawyer Justice</h2>
-                                <h2 class="text-uppercase">We Are World’s First Certified Family Law Specialists.</h2>
+                                <h2 class="theme_color">Bienvenidos a "ESTUDIO JURIDICO SULCA PIZARRO"</h2>
+                                <h2 class="text-uppercase">Especialista Certificado</h2>
                             </div>
                             <div class="text-content">
                                 
                                 <div class="row clearfix">
                                 	<div class="col-lg-8 col-md-12 col-xs-12">
                                         <div class="text">
-                                            <p>Since 1965, who loves or pursues seds or desiress too obtains Attorneys of itself sed, will becausee it is pain but because occasionally utcircumstance occurs ut in which toil and pain cansome great. </p>
+                                            <p>Abogado en ejercicio de la profesión desde el año 2015, evaluando los problemas o controversias y brindando soluciones legales, con riguroso estándar de confidencialidad, por ello la cartera de clientes se encuentra en incremento.
+Nuestra misión es prestar servicios legales de alta calidad, ofreciendo servicios personalizado de asesoría, consultoría, patrocinio adecuado, para una entera satisfacción de nuestros clientes.</p>
                                         </div>
                                     </div>
                                     
@@ -52,12 +53,16 @@ include("header.html");
                                         
                                             <ul class="text-carousel single-item-carousel">
                                                 <li class="slide-item">
-                                                    <h3>42,500</h3>
-                                                    <p>Criminal Cases Won</p>
+                                                    <h3>150</h3>
+                                                    <p>Casos de Derecho Civil</p>
                                                 </li>
                                                 <li class="slide-item">
-                                                    <h3>42,500</h3>
-                                                    <p>Criminal Cases Won</p>
+                                                    <h3>100</h3>
+                                                    <p>Casos de Derecho administrativo</p>
+                                                </li>
+                                                <li class="slide-item">
+                                                    <h3>120</h3>
+                                                    <p>Casos de Derecho de Familia</p>
                                                 </li>
                                             </ul>
                                             
@@ -66,12 +71,6 @@ include("header.html");
                                     </div>
                                     
                                 </div>
-                                
-                                <div class="text">
-                                	<p>Attorneys pursues or desires ut too obtains of itself seds, will because it is pain, but because occasionally utcircumstances occurs ut in which toil and pain can procure him some great pleasure. To se takes a trivials example which was of us ever lawyer Justice undertakes laborious physical exercise.</p>
-                                </div>
-                                
-                                <a href="#" class="theme-btn btn-style-one">More About Us</a>
                                 
                             </div>
                         </div>
@@ -113,7 +112,8 @@ include("header.html");
                                 </div>
                                 
                                 <!--Image Box-->
-                                <div class="image-column col-md-6 col-sm-6 col-xs-12">
+                                
+                                <div style="left: +140px" class="image-column col-md-6 col-sm-6 col-xs-12">
                                 	<figure class="image-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                                     	<img src="images\resource\default-image-7.jpg" alt="">
                                         <a href="#" class="default-overlay-outer">
@@ -127,24 +127,7 @@ include("header.html");
                                     </figure>
                                 </div>
                                 
-                                <!--Image Box-->
-                                <div class="image-column col-md-6 col-sm-6 col-xs-12">
-                                	<figure class="image-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-                                    	<img src="images\resource\default-image-8.jpg" alt="">
-                                        <a href="#" class="default-overlay-outer">
-                                        	<div class="inner">
-                                            	<div class="content-layer">
-                                                	<div class="icon"><span class="flaticon-medical-1"></span></div>
-                                                    <h3>Drug Control Law</h3>
-                                                </div>
-                                            </div>
-                                        </a>
-                                    </figure>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div><!--End Laws Column-->
+                                <!--End Laws Column-->
                     
                 </div>
                 
