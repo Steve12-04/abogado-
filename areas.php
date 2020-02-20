@@ -43,7 +43,7 @@ include("header.html");
                                         	<div class="icon-box"><span class="flaticon-briefcase"></span></div>
                                             <h3><a href="#">Derecho Civil</a></h3>
                                             <div class="text">
-                                            	<p>Nos encargamos de ofrecer asesoría legal en todos los aspectos relacionados al derecho civil, a fin de defender los derechos e intereses de los patrocinados, en los diversos campos del derecho civil, tales como saneamiento de propiedades, retractos, prescripciones, reivindicación, entre otras, asimismo dar seguridad jurídica relacionados a los arrendamientos de inmuebles.
+                                            	<p style="text-align: justify; padding: 1px 1px 1px 1px">Nos encargamos de ofrecer asesoría legal en todos los aspectos relacionados al derecho civil, a fin de defender los derechos e intereses de los patrocinados, en los diversos campos del derecho civil, tales como saneamiento de propiedades, retractos, prescripciones, reivindicación, entre otras, asimismo dar seguridad jurídica relacionados a los arrendamientos de inmuebles.
 </p>
                                             </div>
                                         </div>

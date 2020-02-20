@@ -49,7 +49,7 @@ include("header.html");
                                     <p>Nos encargamos de ofrecer asesoría legal en todos los aspectos relacionados al derecho civil, a fin de defender los derechos e intereses de los patrocinados, en los diversos campos del derecho civil, tales como saneamiento de propiedades, retractos, prescripciones, reivindicación, entre otras, asimismo dar seguridad jurídica relacionados a los arrendamientos de inmuebles.</p>
                                 </div>
                                 
-                                <a href="#" class="theme-btn btn-style-one">Read More</a>
+                                <a href="pagina1.php" class="theme-btn btn-style-one">Leer más</a>
                             </div>
                         </div>
                     </article>
@@ -69,7 +69,7 @@ include("header.html");
                                     <br/><br/><br/><br/></p>
                                 </div>
                                 
-                                <a href="#" class="theme-btn btn-style-one">Read More</a>
+                                <a href="pagina2.php" class="theme-btn btn-style-one">Leer más</a>
                             </div>
                         </div>
                     </article>
@@ -90,7 +90,7 @@ include("header.html");
                                     </p>
                                 </div>
                                 
-                                <a href="#" class="theme-btn btn-style-one">Read More</a>
+                                <a href="pagina3.php" class="theme-btn btn-style-one">Leer más</a>
                             </div>
                         </div>
                     </article>

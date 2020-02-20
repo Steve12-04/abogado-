@@ -4,7 +4,7 @@ include("header.html");
     
     
         <!--Page Title-->
-        <section class="page-title" style="background-image:url(images/background/pagetitle-bgg.jpeg);">
+        <section class="page-title" style="background-image:url(images/background/pagetitle-bgg.png);">
             <div class="auto-container">
             	<h1 style="color: #be9135;">Acerca del Abogado</h1>
             </div>
