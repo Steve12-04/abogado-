@@ -79,35 +79,13 @@ include("header.html");
                                 </article>
                                 
                                 <!--Practice Area Column-->
-                                <article class="practice-column col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                                	<div class="inner-box">
-                                    	<figure class="image-box"><img src="images\resource\default-image-17.jpg" alt=""></figure>
-                                        <div class="lower-content">
-                                        	<div class="icon-box"><span class="flaticon-medical-1"></span></div>
-                                            <h3><a href="#">Drug Control Law</a></h3>
-                                            <div class="text">
-                                            	<p>Drug prohibition law is prohibition based law by which isgovernnments prohibit, exceptunderteh  licence, the production...</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </article>
+                              
                                 
                                 <!--Practice Area Column-->
                                 
                                 
                                 <!--Practice Area Column-->
-                                <article class="practice-column col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                                	<div class="inner-box">
-                                    	<figure class="image-box"><img src="images\resource\default-image-19.jpg" alt=""></figure>
-                                        <div class="lower-content">
-                                        	<div class="icon-box"><span class="flaticon-favorite-2"></span></div>
-                                            <h3><a href="#">Insurance Law</a></h3>
-                                            <div class="text">
-                                            	<p>Insurance is a contract in which  one party pays money and the other party promises  reimburse the first for certain types of losses.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </article>
+                               
                                 
                             </div>
                         </section>
@@ -126,9 +104,7 @@ include("header.html");
                                         <li><a href="law-single.html">Consumer Law</a></li>
                                         <li><a href="law-single.html">Family Law</a></li>
                                         <li><a href="law-single.html">Criminal Law</a></li>
-                                        <li><a href="law-single.html">Drug Control Law</a></li>
-                                        <li><a href="law-single.html">Business Law</a></li>
-                                        <li><a href="#law-single.html">Insurance Law</a></li>
+                                        
                                     </ul>
                                 </nav>
                             </div>
@@ -139,8 +115,10 @@ include("header.html");
                             	<div class="styled-heading"><h2>Our Brochures</h2></div>
                                 <ul>
                                     <li><a href="#"><span class="icon fa fa-file-pdf-o"></span> Practice Areas.PDF</a></li>
+                                  <!-- 
                                     <li><a href="#"><span class="icon fa fa-file-pdf-o"></span> Related Law Guides.PDF</a></li>
                                     <li><a href="#"><span class="icon fa fa-file-pdf-o"></span> Related Law Guides.PDF</a></li>
+                               -->
                                 </ul>
                             </div>
                             

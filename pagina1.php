@@ -54,15 +54,15 @@ include("header.html");
                                     <div class="col-md-5 col-sm-6 col-xs-12">
                                     	<!--Specs Box-->
                                         <div class="specs-box">
-                                        	<h2>Family Law Issues:</h2>
+                                        	<h2>Derecho Civil:</h2>
                                             
                                             <ul class="styled-list-one">
-                                                <li>Adoptions</li>
-                                                <li>Child Custody and Visitation</li>
-                                                <li> Spousal Support</li>
-                                                <li>Divorce &amp; Seperations</li>
-                                                <li>Guardianship</li>
-                                                <li>Child Support &amp; Paternity</li>
+                                                <li>Prescripcion Adquisitiva</li>
+                                                <li>Otorgamiento de Escritura</li>
+                                                <li>Reivindicación</li>
+                                                <li>Desalojo</li>
+                                                <li>Anticipo Legitima</li>
+                                                <li>Testamento</li>
                                             </ul>
                                             
                                         </div>
@@ -74,7 +74,7 @@ include("header.html");
                             <div class="about-law">
                             	
                                 <div class="clearfix">
-                                	<div class="styled-heading pull-left"><h2>About Family Law</h2></div>
+                                	<div class="styled-heading pull-left"><h2>¿Que es Derecho civil?</h2></div>
                                     <div class="padd-top-10 pull-right"><a href="#" class="theme-btn btn-style-one">Free Consultation</a></div>
                                 </div>
                                 
@@ -171,83 +171,7 @@ include("header.html");
                         </section>
                         
                         <!--Team Section-->
-                        <section class="team-section no-padd-top">
-                            <div class="styled-heading margin-bott-40"><h2>Meet Family Attorneys</h2></div>
-                            
-                            <div class="row clearfix">
-                                
-                                <!--Column-->
-                                <article class="column team-member col-lg-4 col-md-6 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-                                    <div class="inner-box">
-                                        <figure class="image"><a href="mailto:mail@email.com"><img src="images\resource\team-image-1.jpg" alt=""></a></figure>
-                                        <div class="member-info">
-                                            <h3>David Vigo Michel</h3>
-                                            <div class="designation">Family Lawyer</div>
-                                        </div>
-                                        <div class="content">
-                                            <ul class="contact-info">
-                                                <li><span class="icon fa fa-phone"></span> <a href="#">98765-12-345</a></li>
-                                                <li><span class="icon fa fa-envelope-o"></span> <a href="#">Davidvigo@domain.com</a></li>
-                                            </ul>
-                                            <div class="social-links">
-                                                <a href="#"><span class="fa fa-facebook-f"></span></a>
-                                                <a href="#"><span class="fa fa-twitter"></span></a>
-                                                <a href="#"><span class="fa fa-google-plus"></span></a>
-                                                <a href="#"><span class="fa fa-linkedin"></span></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </article>
-                                
-                                <!--Column-->
-                                <article class="column team-member col-lg-4 col-md-6 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-                                    <div class="inner-box">
-                                        <figure class="image"><a href="mailto:mail@email.com"><img src="images\resource\team-image-2.jpg" alt=""></a></figure>
-                                        <div class="member-info">
-                                            <h3>Jem Stone Lawrence</h3>
-                                            <div class="designation">Consumer Lawyer</div>
-                                        </div>
-                                        <div class="content">
-                                            <ul class="contact-info">
-                                                <li><span class="icon fa fa-phone"></span> <a href="#">97877-32-100</a></li>
-                                                <li><span class="icon fa fa-envelope-o"></span> <a href="#">Jemstone@domain.com</a></li>
-                                            </ul>
-                                            <div class="social-links">
-                                                <a href="#"><span class="fa fa-facebook-f"></span></a>
-                                                <a href="#"><span class="fa fa-twitter"></span></a>
-                                                <a href="#"><span class="fa fa-google-plus"></span></a>
-                                                <a href="#"><span class="fa fa-linkedin"></span></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </article>
-                                
-                                <!--Column-->
-                                <article class="column team-member col-lg-4 col-md-6 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
-                                    <div class="inner-box">
-                                        <figure class="image"><a href="mailto:mail@email.com"><img src="images\resource\team-image-3.jpg" alt=""></a></figure>
-                                        <div class="member-info">
-                                            <h3>Mercy Van Desosa</h3>
-                                            <div class="designation">Criminal Lawyer</div>
-                                        </div>
-                                        <div class="content">
-                                            <ul class="contact-info">
-                                                <li><span class="icon fa fa-phone"></span> <a href="#">97901-23-456</a></li>
-                                                <li><span class="icon fa fa-envelope-o"></span> <a href="#">Mercydesosa@domain.com</a></li>
-                                            </ul>
-                                            <div class="social-links">
-                                                <a href="#"><span class="fa fa-facebook-f"></span></a>
-                                                <a href="#"><span class="fa fa-twitter"></span></a>
-                                                <a href="#"><span class="fa fa-google-plus"></span></a>
-                                                <a href="#"><span class="fa fa-linkedin"></span></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </article>
-                            
-                            </div>
-                        </section>
-                    
+                     
                     </div><!--End Content Side-->   
                     
                     <!--Sidebar-->      
@@ -262,9 +186,7 @@ include("header.html");
                                         <li><a href="law-single.html">Consumer Law</a></li>
                                         <li class="current"><a href="law-single.html">Family Law</a></li>
                                         <li><a href="law-single.html">Criminal Law</a></li>
-                                        <li><a href="law-single.html">Drug Control Law</a></li>
-                                        <li><a href="law-single.html">Business Law</a></li>
-                                        <li><a href="#law-single.html">Insurance Law</a></li>
+                                      
                                     </ul>
                                 </nav>
                             </div>
