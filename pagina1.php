@@ -6,7 +6,7 @@ include("header.html");
         <!--Page Title-->
         <section class="page-title" style="background-image:url(images/background/pagetitle-bg.jpg);">
             <div class="auto-container">
-            	<h1>Law Single</h1>
+            	<h1>Derecho Civil</h1>
             </div>
         </section>
         
@@ -75,11 +75,11 @@ include("header.html");
                             	
                                 <div class="clearfix">
                                 	<div class="styled-heading pull-left"><h2>¿Que es Derecho civil?</h2></div>
-                                    <div class="padd-top-10 pull-right"><a href="#" class="theme-btn btn-style-one">Free Consultation</a></div>
+                                    <div class="padd-top-10 pull-right"><a href="#" class="theme-btn btn-style-one">Consulta Gratis</a></div>
                                 </div>
                                 
                                 <div class="text">
-                                	<p>Family law consists of a body of statutes and case precedentss that govern the legal responsibilitiees between individuals who share a domestic connection. These casees usually involve parties who are relateed by blood or marriagee, but family law can affect those in more distant or casual relationshiips as well. Due to the emotionally-charged nature of moost family law cases, litigants are strongly advised to retain legal counsel.</p>
+                                	<p>El derecho civil es la rama del derecho que comprende normas de tipo jurídicas que se encargan de regular las relaciones entre las personas o de tipo patrimonial, las cuales pueden ser voluntarias o forzosas, tanto físicas o jurídicas, privadas o públicas.</p>
                                 </div>
                                 
                             </div>
@@ -88,11 +88,13 @@ include("header.html");
                             <div class="default-two-column">
                             	<div class="row clearfix">
                                 	<div class="col-lg-7 col-md-12 col-xs-12">
-                                        <div class="styled-heading"><h2>Know Your Rights</h2></div>
+                                        <div class="styled-heading"><h2>¿Como te puede ayudar el abogado?</h2></div>
                                         
                                         <div class="text">
-                                            <p>Responsibilitiees betweens individualss sed who sharee a domestiic connection. These  casees usually  involves parties who are relateed by blood or marriagee, but famiily law can ut affecct thosee in more distant or casuals relationshiips will sed well It’s may not be terribly romantic, but it could be very wise to think.</p>
-                                            <p>Due to the emotionally -charged nature of moost it family law cases, litigants are strongly advised it to retain legal counsel casees usually involve parties who are relateed by it blood or marriagee It may not be terribly romantic, but itIromantic and the  marriage.</p>
+                                            <p>Los abogados civiles son quienes tienen el objetivo de normalizar todo lo jurídico que tiene que ver con la vida cotidiana de las personas y las relaciones entre el estado y sus semejantes, es decir, solucionar los problemas de cada individuo. Esto se da a raíz de que en Inglaterra medieval nace la necesidad de separar los problemas del estado con los particulares. De ahí que se trasladó a Estado Unidos para que representara los derechos de los ciudadanos en temas como nacionalidades, divorcios, accidentes de tráfico, etc.
+
+                                            <p>El abogado civil tiene las funciones de revisar cada caso con determinación, ya que de ahí verá si existen causas o no y sí se tiene que presentar una demanda, todo esto depende del caso que sea. Además una vez que el abogado sepa de tu asunto, tiene la obligación de no estar comentando con nadie de esto, ya que es algo que tiene que pasar con este tipo de abogados, tener esa confidencialidad con sus clientes.</p>
+                                           </p>
                                         </div>
                                     </div>
                                     
@@ -133,41 +135,7 @@ include("header.html");
                                 </div>
                                 
                             </div><!--End Default Two Column-->
-                            
-                            <!--Default Two Column-->
-                            <div class="default-two-column">
-                            	<div class="row clearfix">
-                                	
-                                    <div class="col-lg-6 col-md-12 col-xs-12">
-                            			<div class="boxed-column">
-                                        	<h4>Family Law International</h4>
-                                            <!--Styled List Two-->
-                                            <ul class="styled-list-two">
-                                            	<li>ABA - International Family Law Committee</li>
-                                                <li>EISIL - International Section on Family Law</li>
-                                                <li>Family Law - AIRE Center</li>
-                                                <li>Transnational and Comparative Family Law</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    
-                                    <div class="col-lg-6 col-md-12 col-xs-12">
-                            			<div class="boxed-column">
-                                        	<h4>Family Law Organizations</h4>
-                                            <!--Styled List Two-->
-                                            <ul class="styled-list-two">
-                                            	<li>American Academy of Matrimonial Lawyers</li>
-                                                <li>International Academy of Collaborative Professionals</li>
-                                                <li>International Society of Family Law</li>
-                                                <li>Resolution, First for Family Law - UK</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    
-                                    
-                                </div>
-                            </div><!--End Default Two Column-->
-                        
+                         
                         </section>
                         
                         <!--Team Section-->
@@ -182,10 +150,10 @@ include("header.html");
                             <div class="widget sidebar-widget boxed-nav">
                             	<nav class="nav-outer">
                                 	<ul>
-                                    	<li><a href="practice-areas.html">All Practice Areas</a></li>
-                                        <li><a href="law-single.html">Consumer Law</a></li>
-                                        <li class="current"><a href="law-single.html">Family Law</a></li>
-                                        <li><a href="law-single.html">Criminal Law</a></li>
+                                    	<li><a href="areas.php">Todas las Areas</a></li>
+                                        <li class="current"><a href="pagina1.php">Derecho Civil</a></li>
+                                        <li ><a href="pagina2.php">Derecho de familia</a></li>
+                                        <li><a href="pagina3.php">Derecho Administrativo</a></li>
                                       
                                     </ul>
                                 </nav>
