@@ -10,52 +10,17 @@ include("header.html");
                     <ul>
                         
                         
-                        <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/3.jpeg" data-saveperformance="off" data-title="Awesome Title Here">
-                        <img src="images\main-slider\3.jpg" alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat"> 
+                        <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="" data-saveperformance="off" data-title="Awesome Title Here">
                         
                         
-                        <div class="tp-caption sfl sfb tp-resizeme" data-x="right" data-hoffset="-15" data-y="center" data-voffset="-120" data-speed="1500" data-start="500" data-easing="easeOutExpo" data-splitin="none" data-splitout="none" data-elementdelay="0.01" data-endelementdelay="0.3" data-endspeed="1200" data-endeasing="Power4.easeIn" style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><h1 class="text-center">We Are Certified Family <br>Law Specialists</h1></div>
-                        
-                        <div class="tp-caption sfr sfb tp-resizeme" data-x="right" data-hoffset="-80" data-y="center" data-voffset="20" data-speed="1500" data-start="1000" data-easing="easeOutExpo" data-splitin="none" data-splitout="none" data-elementdelay="0.01" data-endelementdelay="0.3" data-endspeed="1200" data-endeasing="Power4.easeIn" style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="text text-center">We Have Helped Thousands of People to Get Relief From National Wide Fights <br>WrongfullDenials. Now They Trusted Our Attorneys.</div></div>
-                        
-                        <div class="tp-caption sfl sfb tp-resizeme" data-x="right" data-hoffset="-200" data-y="center" data-voffset="110" data-speed="1500" data-start="1500" data-easing="easeOutExpo" data-splitin="none" data-splitout="none" data-elementdelay="0.01" data-endelementdelay="0.3" data-endspeed="1200" data-endeasing="Power4.easeIn" style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="text-center"><a href="#" class="theme-btn btn-style-one">Contact Our Attorneys</a></div></div>
-                        
-                        <div class="tp-caption sfr sfb tp-resizeme" data-x="right" data-hoffset="-200" data-y="center" data-voffset="180" data-speed="1500" data-start="2000" data-easing="easeOutExpo" data-splitin="none" data-splitout="none" data-elementdelay="0.01" data-endelementdelay="0.3" data-endspeed="1200" data-endeasing="Power4.easeIn" style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="text-center"><a href="#" class="normal-link"><span class="icon flaticon-circle-5"></span> View Our Practice Areas</a></div></div>
-                        
+                        <img src="images/main-slider/mainslider1-1.png" alt="" width="100%">
                         </li>
                         
                         
-                        <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/2.jpeg" data-saveperformance="off" data-title="Awesome Title Here">
-                        <img src="images\main-slider\2.jpeg" alt="" data-bgposition="left top" data-bgfit="cover" data-bgrepeat="no-repeat"> 
-                        
-                        <div class="tp-caption sfl sfb tp-resizeme" data-x="left" data-hoffset="-270" data-y="bottom" data-voffset="30" data-speed="1500" data-start="500" data-easing="easeOutExpo" data-splitin="none" data-splitout="none" data-elementdelay="0.01" data-endelementdelay="0.3" data-endspeed="1200" data-endeasing="Power4.easeIn" style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="logo-image"><img src="images\main-slider\man-image.png" alt=""></div></div>
-                        
-                        <div class="tp-caption sfr sfb tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="-140" data-speed="1500" data-start="1000" data-easing="easeOutExpo" data-splitin="none" data-splitout="none" data-elementdelay="0.01" data-endelementdelay="0.3" data-endspeed="1200" data-endeasing="Power4.easeIn" style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="logo-image"><img src="images\resource\central-logo.png" alt=""></div></div>
-                        
-                        <div class="tp-caption sfl sfb tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="0" data-speed="1500" data-start="1000" data-easing="easeOutExpo" data-splitin="none" data-splitout="none" data-elementdelay="0.01" data-endelementdelay="0.3" data-endspeed="1200" data-endeasing="Power4.easeIn" style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><h1 class="text-center">Senior Defence Lawyer <br>L.K. Antony</h1></div>
-                        
-                        <div class="tp-caption sfr sfb tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="110" data-speed="1500" data-start="1000" data-easing="easeOutExpo" data-splitin="none" data-splitout="none" data-elementdelay="0.01" data-endelementdelay="0.3" data-endspeed="1200" data-endeasing="Power4.easeIn" style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="phone-no">Call: +321 589 2369</div></div>
-                        
-                        <div class="tp-caption sfl sfb tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="180" data-speed="1500" data-start="1000" data-easing="easeOutExpo" data-splitin="none" data-splitout="none" data-elementdelay="0.01" data-endelementdelay="0.3" data-endspeed="1200" data-endeasing="Power4.easeIn" style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="text-center"><a href="#" class="theme-btn btn-style-one">Make an Appoinment</a></div></div>
+                        <li data-transition="fade" data-slotamount="2" data-masterspeed="1000" data-thumb="" data-saveperformance="off" data-title="Awesome Title Here">
+                        <img src="images/main-slider/mainslider212.png" alt="">
                         
                         
-                        </li>
-                        
-                        
-                        <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/1.jpg" data-saveperformance="off" data-title="Awesome Title Here">
-                        <img src="images\main-slider\1.jpeg" alt="" data-bgposition="right top" data-bgfit="cover" data-bgrepeat="no-repeat"> 
-                        
-                        
-                        <div class="tp-caption sfl sfb tp-resizeme" data-x="left" data-hoffset="15" data-y="center" data-voffset="-150" data-speed="1500" data-start="500" data-easing="easeOutExpo" data-splitin="none" data-splitout="none" data-elementdelay="0.01" data-endelementdelay="0.3" data-endspeed="1200" data-endeasing="Power4.easeIn" style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="smaller-title">We Are Lawyer Justice</div></div>
-                        
-                        <div class="tp-caption sfl sfb tp-resizeme" data-x="left" data-hoffset="15" data-y="center" data-voffset="-50" data-speed="1500" data-start="1000" data-easing="easeOutExpo" data-splitin="none" data-splitout="none" data-elementdelay="0.01" data-endelementdelay="0.3" data-endspeed="1200" data-endeasing="Power4.easeIn" style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><h1 class="text-left">Attrorneys Fighting For <br>Your Freedom</h1></div>
-                        
-                        <div class="tp-caption sfl sfb tp-resizeme" data-x="left" data-hoffset="15" data-y="center" data-voffset="60" data-speed="1500" data-start="1500" data-easing="easeOutExpo" data-splitin="none" data-splitout="none" data-elementdelay="0.01" data-endelementdelay="0.3" data-endspeed="1200" data-endeasing="Power4.easeIn" style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="text">We Have Helped Thousands of People to Get Relief From National Wide Fights <br>WrongfullDenials. Now They Trusted Our Attorneys.</div></div>
-                        
-                        <div class="tp-caption sfl sfb tp-resizeme" data-x="left" data-hoffset="15" data-y="center" data-voffset="150" data-speed="1500" data-start="2000" data-easing="easeOutExpo" data-splitin="none" data-splitout="none" data-elementdelay="0.01" data-endelementdelay="0.3" data-endspeed="1200" data-endeasing="Power4.easeIn" style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="text-center"><a href="#" class="theme-btn btn-style-one">Contact Our Attorneys</a></div></div>
-                        
-                        </li>
-                       	
                         
                         
                     </ul>
@@ -525,7 +490,7 @@ Nuestra misión es prestar servicios legales de alta calidad, ofreciendo servici
                     	<div class="inner-box">
                         	<div class="icon"><span class="fa fa-clock-o"></span></div>
                             <h3>Horario de Atención</h3>
-                            <div class="text"><p>Lunes a Viernes: 08.00am - 05.00pm <br></p></div>
+                            <div class="text"><p>Lunes a Viernes: 09:00am - 05.00pm <br></p></div>
                         </div>
                     </article>
                     
