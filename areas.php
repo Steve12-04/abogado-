@@ -41,9 +41,10 @@ include("header.html");
                                     	<figure class="image-box"><img src="images\resource\default-image-18.jpg" alt=""></figure>
                                         <div class="lower-content">
                                         	<div class="icon-box"><span class="flaticon-briefcase"></span></div>
-                                            <h3><a href="#">Business Law</a></h3>
+                                            <h3><a href="#">Derecho Civil</a></h3>
                                             <div class="text">
-                                            	<p>Business law encompasses all of the law that dictate how to form and runa business. this includes all the  laws that govern how to start...</p>
+                                            	<p>Nos encargamos de ofrecer asesoría legal en todos los aspectos relacionados al derecho civil, a fin de defender los derechos e intereses de los patrocinados, en los diversos campos del derecho civil, tales como saneamiento de propiedades, retractos, prescripciones, reivindicación, entre otras, asimismo dar seguridad jurídica relacionados a los arrendamientos de inmuebles.
+</p>
                                             </div>
                                         </div>
                                     </div>
@@ -100,10 +101,10 @@ include("header.html");
                             <div class="widget sidebar-widget boxed-nav">
                             	<nav class="nav-outer">
                                 	<ul>
-                                    	<li class="current"><a href="practice-areas.html">All Practice Areas</a></li>
-                                        <li><a href="law-single.html">Consumer Law</a></li>
-                                        <li><a href="law-single.html">Family Law</a></li>
-                                        <li><a href="law-single.html">Criminal Law</a></li>
+                                    	<li class="current"><a href="practice-areas.html">Todas las Areas</a></li>
+                                        <li><a href="law-single.html">Derecho Civil</a></li>
+                                        <li><a href="law-single.html">Derecho de familia</a></li>
+                                        <li><a href="law-single.html">Derecho Administrativo</a></li>
                                         
                                     </ul>
                                 </nav>
