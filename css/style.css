@@ -708,8 +708,7 @@ ul,li{
 .main-header .middle-bar .logo-column .logo img{
 	display:inline-block;
 	max-width:100%;	
-	position: absolute;
-    left: 55%;
+	
 }
 
 .main-header .top-bar .search-box button:hover,
