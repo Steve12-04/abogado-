@@ -127,11 +127,11 @@ Nuestra misión es prestar servicios legales de alta calidad, ofreciendo servici
                                 <div class="column image-column col-md-4 col-sm-4 col-xs-12">
                                 	<figure class="image-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
                                     	<img src="images\resource\default-image-1.jpg" alt="">
-                                        <a href="#" class="default-overlay-outer">
+                                        <a href="contact.php" class="default-overlay-outer">
                                         	<div class="inner">
                                             	<div class="content-layer">
                                                 	<div class="icon"><span class="fa fa-edit"></span></div>
-                                                    <h3>Request a Quote</h3>
+                                                    <h3>Solicitar Presupuesto</h3>
                                                 </div>
                                             </div>
                                         </a>
@@ -142,11 +142,11 @@ Nuestra misión es prestar servicios legales de alta calidad, ofreciendo servici
                                 <div class="column image-column col-md-4 col-sm-4 col-xs-12">
                                 	<figure class="image-box wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
                                     	<img src="images\resource\default-image-2.jpg" alt="">
-                                        <a href="#" class="default-overlay-outer">
+                                        <a href="about-us.php" class="default-overlay-outer">
                                         	<div class="inner">
                                             	<div class="content-layer">
                                                 	<div class="icon"><span class="fa fa-black-tie"></span></div>
-                                                    <h3>Investigation</h3>
+                                                    <h3>Conóce mas</h3>
                                                 </div>
                                             </div>
                                         </a>
@@ -157,11 +157,11 @@ Nuestra misión es prestar servicios legales de alta calidad, ofreciendo servici
                                 <div class="column image-column col-md-4 col-sm-4 col-xs-12">
                                 	<figure class="image-box wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
                                     	<img src="images\resource\default-image-3.jpg" alt="">
-                                        <a href="#" class="default-overlay-outer">
+                                        <a href="areas.php" class="default-overlay-outer">
                                         	<div class="inner">
                                             	<div class="content-layer">
                                                 	<div class="icon"><span class="fa fa-gavel"></span></div>
-                                                    <h3>Legal Proceeding</h3>
+                                                    <h3>Areas que Ejerce</h3>
                                                 </div>
                                             </div>
                                         </a>
@@ -174,14 +174,14 @@ Nuestra misión es prestar servicios legales de alta calidad, ofreciendo servici
                             	<h2>Consultenos</h2>
                             </div>
                             <div class="default-text-box">
-                            	<p>Laboris nisi ut aliquip ex ea commodo consequat duis sed aute irures dolor in some reprehenderit in voluptate velit esse cillum dolore eu fugiate nullas pariatur labour Excepteur sint occaecat cupidatat non proident, sunt inofficia.</p>
+                            	<p>Respondemos los mensajes o llamadas muy rapido porque sabemos lo importante que es consultar un caso, no dudes en contactarnos de inmediato.</p>
                                 
-                                <div class="quote-text">“We can provide you with a free and confidentioal evaluation”.</div>
+                                <div class="quote-text">“Luchando por la justicia”.</div>
                             </div>
                             
                             <div class="clearfix">
-                            	<div class="pull-left"><a href="#" class="theme-btn btn-style-one">Consulta</a></div>
-                                <div class="pull-right"><p class="phone-info">For criminal charges: <span class="phone">+123.859.1263</span></p></div>
+                            	<div class="pull-left"><a href="contact.php" class="theme-btn btn-style-one">Consulta</a></div>
+                                <div class="pull-right"><p class="phone-info">Llame ahora: <span class="phone">+51 993641988</span></p></div>
                             </div>
                             
                             
@@ -246,10 +246,10 @@ Nuestra misión es prestar servicios legales de alta calidad, ofreciendo servici
                                     <div class="graph-outer">
                                     	<!--Progress Chart-->
                                         <div class="chart-outer">
-                                        	<div class="center-text progress-text"><span class="count">845</span><br>Cases</div>
-                                            <div class="won-text progress-text"><span class="count">755</span><br>Won</div>
-                                            <div class="hold-text progress-text"><span class="count">35</span><br>Won</div>
-                                            <div class="running-text progress-text"><span class="count">55</span><br>Running</div>
+                                        	<div class="center-text progress-text"><span class="count">150</span><br>Cases</div>
+                                            <div class="won-text progress-text"><span class="count">145</span><br>Ganados</div>
+                                            <div class="hold-text progress-text"><span class="count">0</span><br>Perdidos</div>
+                                            <div class="running-text progress-text"><span class="count">5</span><br>Procesando</div>
                                         </div>
                                         
                                     </div>
@@ -280,49 +280,39 @@ Nuestra misión es prestar servicios legales de alta calidad, ofreciendo servici
                         
                         <div class="inner-box">
                             <div class="carousel-box">
-                                <div class="styled-heading"><h2>What Our Clients Say</h2></div>
+                                <div class="styled-heading"><h2>Lo que dicen nuestros clientes</h2></div>
                                 <div class="quote-icon"><span class="fa fa-quote-left"></span></div>
                                 <!--Testimonial Carousel-->
                                 <ul class="testimonial-carousel single-item-carousel">
                                     
                                     <!--Slide Item-->
                                     <li class="slide-item">
-                                        <div class="slide-text"><p>How to pursue pleasure rationally  consequences that are extremeely painful or again is there anyones who loves or  pursues or desires to obtain pain of itself because its sed great pleasure get well soon.</p></div>
+                                        <div class="slide-text"><p>El abogado es una persona muy preparada que se compromete con el caso hasta el final. </p></div>
                                         <div class="information clearfix">
                                             <div class="slide-info pull-left">
-                                                <figure class="image-thumb"><img src="images\resource\testi-thumb-1.png" alt=""></figure>
-                                                <h3>Alex Carolina</h3>
-                                                <p>CEO of RJX Solutions</p>
+                                                <figure class="image-thumb"><img src="images\gallery/1.jpg" alt=""></figure>
+                                                <h3>Martin Rojas</h3>
+                                                <p>Derecho Legal</p>
                                             </div>
-                                            <div class="signature pull-right"><img src="images\resource\signature-image.png" alt=""></div>
+                                            <div class="signature pull-right"><img src="images\gallery/firma2.png" alt=""></div>
                                         </div>
                                     </li>
                                     
                                     <!--Slide Item-->
                                     <li class="slide-item">
-                                        <div class="slide-text"><p>How to pursue pleasure rationally  consequences that are extremeely painful or again is there anyones who loves or  pursues or desires to obtain pain of itself because its sed great pleasure get well soon.</p></div>
+                                        <div class="slide-text"><p>El abogado resolvio el caso a mi favor, porque presente todas los documentos necesarios, gracias, Muy buen trabajo.</p></div>
                                         <div class="information clearfix">
                                             <div class="slide-info pull-left">
-                                                <figure class="image-thumb"><img src="images\resource\testi-thumb-1.png" alt=""></figure>
-                                                <h3>Alex Carolina</h3>
-                                                <p>CEO of RJX Solutions</p>
+                                                <figure class="image-thumb"><img src="images\gallery/2.jpg" alt=""></figure>
+                                                <h3>Olinda Lombardi</h3>
+                                                <p>Derecho de Familia</p>
                                             </div>
-                                            <div class="signature pull-right"><img src="images\resource\signature-image.png" alt=""></div>
+                                            <div class="signature pull-right"><img src="images\gallery/firma1.png" alt=""></div>
                                         </div>
                                     </li>
                                     
                                     <!--Slide Item-->
-                                    <li class="slide-item">
-                                        <div class="slide-text"><p>How to pursue pleasure rationally  consequences that are extremeely painful or again is there anyones who loves or  pursues or desires to obtain pain of itself because its sed great pleasure get well soon.</p></div>
-                                        <div class="information clearfix">
-                                            <div class="slide-info pull-left">
-                                                <figure class="image-thumb"><img src="images\resource\testi-thumb-1.png" alt=""></figure>
-                                                <h3>Alex Carolina</h3>
-                                                <p>CEO of RJX Solutions</p>
-                                            </div>
-                                            <div class="signature pull-right"><img src="images\resource\signature-image.png" alt=""></div>
-                                        </div>
-                                    </li>
+                                   
                                     
                                 </ul><!--End Testimonial Carousel-->
                                 
@@ -334,26 +324,27 @@ Nuestra misión es prestar servicios legales de alta calidad, ofreciendo servici
                     <!--Why Us Column-->
                     <div class="col-lg-5 col-md-6 col-sm-12 col-xs-12 whyus-column">
                     	<div class="inner-box">
-                        	<div class="styled-heading"><h2>What Our Clients Say</h2></div>
+                        	<div class="styled-heading"><h2>Lo que dicen nuestros clientes</h2></div>
                             <!--Icon Block-->
                             <article class="icon-block">
                             	<div class="icon wow rollIn" data-wow-delay="300ms" data-wow-duration="1500ms"><span class="flaticon-scale"></span></div>
-                                <h3>Fight For Justice</h3>
-                                <div class="text"><p>Seeking justice in the world is a  sed significant emotional and investment when we follow this call, we’re deeply.</p></div>
+                                <h3>Luchar por la justicia</h3>
+                                <div class="text"><p>
+Buscar justicia en el mundo es una inversión emocional y significativa cuando seguimos este llamado, estamos Concientizados de lo importante que es.</p></div>
                             </article>
                             
                             <!--Icon Block-->
                             <article class="icon-block">
                             	<div class="icon wow rollIn" data-wow-delay="0ms" data-wow-duration="1500ms"><span class="flaticon-baggage"></span></div>
-                                <h3>Best Case Stratergy</h3>
-                                <div class="text"><p>Proving liability in plaintiffs’ personal injury and complex civil litigation can be challenging and requires relent.</p></div>
+                                <h3>La mejor estrategia de caso</h3>
+                                <div class="text"><p>Probar la responsabilidad en cuestiones personales de los demandantes y en los litigios civiles complejos puede ser un desafío que requiere recesión.</p></div>
                             </article>
                             
                             <!--Icon Block-->
                             <article class="icon-block">
                             	<div class="icon wow rollIn" data-wow-delay="600ms" data-wow-duration="1500ms"><span class="flaticon-people-2"></span></div>
-                                <h3>Experienced Attorneys</h3>
-                                <div class="text"><p>Lawyer Justice offers a broad range of opportunities for Speak Experienced attorneys to work you.</p></div>
+                                <h3>Amplia Experiencia</h3>
+                                <div class="text"><p>Experiencia de abogado en casos de entidades publicas y ahora tabajando como casos individuales.</p></div>
                             </article>
                             
                         </div>
