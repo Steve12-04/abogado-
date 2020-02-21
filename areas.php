@@ -4,7 +4,7 @@ include("header.html");
     
     
         <!--Page Title-->
-        <section class="page-title" style="background-image:url(images/background/pagetitle-bg.jpg);">
+        <section class="page-title" style="background-image:url(images/main-slider/slider.jpg);">
             <div class="auto-container">
             	<h1>NUESTRAS ÁREAS </h1>
             </div>
